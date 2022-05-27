@@ -2,4 +2,4 @@
 - 👀 I’m interested in LUA coding
 - 🌱 I’m currently learning coding on roblox
 - 📫 How to reach me 
- - Discord: དΔØŜཌ BOB IS MAD#2770
+ - Discord: BOB IS HAPPY#2770
