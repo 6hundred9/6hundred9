@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @RobloxianCoder
 - 👀 I’m interested in LUA coding
-- 🌱 I’m currently learning coding on roblox
-- 📫 How to reach me 
- - Discord: BOB IS HAPPY#2770
+- 👐 Learning a bunch of coding languages
