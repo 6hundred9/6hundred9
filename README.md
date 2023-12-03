@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @RobloxianCoder
-- 👀 I’m interested in LUA coding
-- 👐 Learning a bunch of coding languages
+- A programmer i think
