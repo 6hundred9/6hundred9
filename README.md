@@ -1,4 +1,4 @@
-- A software engineer i think
+- A lobster
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=6hundred9)](https://github.com/ryo-ma/github-profile-trophy)
   
