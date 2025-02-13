@@ -1,4 +1,6 @@
 - A lobster
+
+- I'm a COMMITT-ed programmer (pun intended)
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=6hundred9)](https://github.com/ryo-ma/github-profile-trophy)
   
