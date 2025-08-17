@@ -7,4 +7,8 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=6hundred9&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 Discord: termayl (previously 6hundred9)
-I might switch from C# to rust :d
+
+
+
+
+
