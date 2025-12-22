@@ -10,4 +10,4 @@ Discord: 6hundred9
 
 
 
-
+### (If you're here from any roblox game dev apps: I know there's no lua(u) but if there needs to be please do dm me instead of just rejecting my app 🙏)
