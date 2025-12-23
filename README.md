@@ -14,6 +14,6 @@ Discord: 6hundred9
 
 Actually here's some screenshots of a now abandoned game:
 
-[![Code Screenshot](s/ss1.png)] [![Code Screenshot](s/ss2.png)]
-[![Code Screenshot](s/ss3.png)] [![Code Screenshot](s/ss4.png)]
-[![Code Screenshot](s/ss5.png)] [![Code Screenshot](s/ss6.png)]
+![Code Screenshot](s/ss1.png) ![Code Screenshot](s/ss2.png)
+![Code Screenshot](s/ss3.png) ![Code Screenshot](s/ss4.png)
+![Code Screenshot](s/ss5.png) ![Code Screenshot](s/ss6.png)
